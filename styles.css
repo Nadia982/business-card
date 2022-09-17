@@ -1,0 +1,46 @@
+body {
+    margin: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.avatar {
+    width: 150px;
+}
+
+.card {
+    width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    background: #F6E5EB;
+    color: #310314;
+    border: 2px solid #F6CADB;
+    border-bottom: 6px solid #F6CADB;
+    border-radius: 20px;
+}
+
+.card:hover {
+    border: 6px solid #F6CADB;
+    border-bottom: 10px solid #F6CADB;
+    
+}
+
+h3 {
+    font-size: 1.5em;
+}
+
+img {
+    border-radius: 20px;
+}
+
+/* .border-blue {
+    border: 1px dotted blue;
+} */
+
+/*
+- shuffle the layout
+- shadows        🤯
+- animations     🤯🤯🤯
+*/
